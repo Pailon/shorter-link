@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "igor super good ",
+  "mongoUri": "mongodb+srv://temonavto:4511550160a@cluster0.my8zs.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl" : "http://localhost:5000"
+}
